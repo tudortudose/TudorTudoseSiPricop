@@ -1,0 +1,97 @@
+{
+  "items" : [ {
+    "class" : "catalog.Book",
+    "id" : 0,
+    "concepts" : [ "C0", "C1", "C2" ],
+    "title" : "BTitle1",
+    "location" : "C:/book1",
+    "year" : 2001,
+    "author" : "Author1",
+    "type" : "type1"
+  }, {
+    "class" : "catalog.Book",
+    "id" : 1,
+    "concepts" : [ "C0", "C3" ],
+    "title" : "BTitle2",
+    "location" : "C:/book2",
+    "year" : 2002,
+    "author" : "Author2",
+    "type" : "type2"
+  }, {
+    "class" : "catalog.Book",
+    "id" : 2,
+    "concepts" : [ "C1", "C2", "C3" ],
+    "title" : "BTitle3",
+    "location" : "C:/book3",
+    "year" : 2003,
+    "author" : "Author3",
+    "type" : "type1"
+  }, {
+    "class" : "catalog.Book",
+    "id" : 3,
+    "concepts" : [ "C0", "C3", "C5" ],
+    "title" : "BTitle4",
+    "location" : "C:/book4",
+    "year" : 2004,
+    "author" : "Author4",
+    "type" : "type2"
+  }, {
+    "class" : "catalog.Book",
+    "id" : 4,
+    "concepts" : [ "C5", "C6" ],
+    "title" : "BTitle5",
+    "location" : "C:/book5",
+    "year" : 2004,
+    "author" : "Author1",
+    "type" : "type2"
+  }, {
+    "class" : "catalog.Book",
+    "id" : 5,
+    "concepts" : [ "C1", "C7" ],
+    "title" : "BTitle6",
+    "location" : "C:/book6",
+    "year" : 2003,
+    "author" : "Author3",
+    "type" : "type3"
+  }, {
+    "class" : "catalog.Article",
+    "id" : 6,
+    "concepts" : [ "C1", "C5" ],
+    "title" : "Article1",
+    "location" : "C:/article1",
+    "year" : 2004,
+    "author" : "Author4"
+  }, {
+    "class" : "catalog.Article",
+    "id" : 7,
+    "concepts" : [ "C1", "C3" ],
+    "title" : "Article2",
+    "location" : "C:/article2",
+    "year" : 2004,
+    "author" : "Author5"
+  }, {
+    "class" : "catalog.Article",
+    "id" : 8,
+    "concepts" : [ "C4", "C6", "C7" ],
+    "title" : "Article3",
+    "location" : "C:/article3",
+    "year" : 2004,
+    "author" : "Author2"
+  }, {
+    "class" : "catalog.Article",
+    "id" : 9,
+    "concepts" : [ "C1", "C3" ],
+    "title" : "Article4",
+    "location" : "C:/article4",
+    "year" : 2004,
+    "author" : "Author2"
+  }, {
+    "class" : "catalog.Article",
+    "id" : 10,
+    "concepts" : [ "C1", "C3" ],
+    "title" : "Article5",
+    "location" : "C:/article5",
+    "year" : 2004,
+    "author" : "Author5"
+  } ]
+}
